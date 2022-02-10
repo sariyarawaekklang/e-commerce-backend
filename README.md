@@ -51,6 +51,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video
 
+https://watch.screencastify.com/v/kD9UM004guFTbyo9NIco
+
 ## Repository URL
 
 https://sariyarawaekklang.github.io/e-commerce-backend/
