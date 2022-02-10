@@ -1,6 +1,6 @@
 # E-Commerce Back End
 
-In this assignment, I created a built the back-end for an e-commerce site.
+In this assignment, I built the back-end for an e-commerce site.
 
 ## Built With
 
